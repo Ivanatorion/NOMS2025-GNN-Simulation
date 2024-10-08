@@ -1,0 +1,41 @@
+18 22 10Mbps
+0 1 100Mbps
+0 5 100Mbps
+0 15 100Mbps
+1 2 100Mbps
+1 10 100Mbps
+1 17 100Mbps
+1 11 100Mbps
+3 15 100Mbps
+3 5 100Mbps
+4 14 100Mbps
+4 16 100Mbps
+5 10 100Mbps
+5 12 100Mbps
+6 7 100Mbps
+6 8 100Mbps
+7 9 100Mbps
+8 14 100Mbps
+8 12 100Mbps
+10 12 100Mbps
+10 16 100Mbps
+13 14 100Mbps
+16 17 100Mbps
+0
+0
+2
+4
+0
+0
+0
+0
+0
+4
+0
+2
+0
+4
+0
+0
+0
+0

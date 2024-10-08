@@ -1,0 +1,20 @@
+# PATHS
+train_dataset: ./data/train
+validation_dataset: ./data/eval
+additional_functions_file: ./additional_functions.py
+output_path: ./
+
+# OPTIMIZATION OPTIONS
+loss: loss
+optimizer:
+  type: Adam
+metrics: [BinaryAccuracy, Precision, Recall]
+
+# TRAINING OPTIONS
+batch_size: 100
+epochs: 15
+epoch_size: 1000
+shuffle_training_set: True
+shuffle_validation_set: True
+val_samples: 500
+val_frequency: 5
